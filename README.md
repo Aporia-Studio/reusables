@@ -1,6 +1,6 @@
 # Resuables
 
-A library to make website building process easier. Components here means
+A library to make website building process easier. Specially targeted to websites that are built for small businesses. Components here means
 
 - Header
 - Footer
@@ -13,3 +13,9 @@ and other various parts of a website. The idea was to copy paste or just call a 
 Simple and sound. I do not want to use header1, header2, header3 so all the components will have names from rivers around the world.
 
 More info will be added later...
+
+## Tools
+- [shadcn](https://ui.shadcn.com/)
+- [Icons](https://iconsvg.xyz/)
+- [Favicons](https://favicon.io/favicon-generator/)
+- [Emojis](https://emojihub.org/)
