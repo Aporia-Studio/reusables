@@ -12,7 +12,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 
 export default function YangtzeFooter() {
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: any) => {
     e.preventDefault();
     alert(
       "Your message has been sent successfully. We will get back to you as soon as possible."
@@ -88,9 +88,9 @@ export default function YangtzeFooter() {
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5534.777217846567!2d115.88576450809684!3d-31.922541461414895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2a32bb6d7c249d2d%3A0xc6611db3c3214959!2sALDI!5e0!3m2!1sen!2sau!4v1694266143742!5m2!1sen!2sau"
                 style={{ width: 300, border: 0, height: 270, borderRadius: 10 }}
-                allowfullscreen=""
+                allowFullScreen
                 loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
+                referrerPolicy="no-referrer-when-downgrade"
               ></iframe>
             </Link>
           </div>

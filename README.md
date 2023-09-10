@@ -19,3 +19,10 @@ More info will be added later...
 - [Icons](https://iconsvg.xyz/)
 - [Favicons](https://favicon.io/favicon-generator/)
 - [Emojis](https://emojihub.org/)
+
+
+## Inspirations
+- [Tailwind elements](https://tailwind-elements.com/)
+- [Flowbite](https://flowbite.com/)
+- [HorizonUi](https://horizon-ui.com/)
+- 
